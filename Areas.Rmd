@@ -39,5 +39,14 @@ AreaRectangulo <- base_rect * altura_rect
 AreaRectangulo
 ```
 
+## Área trapecio
+```{r}
+base_mayor <- 6
+base_menor <- 4
+altura_trap <- 3
+AreaTrapecio <- (base_mayor + base_menor) * altura_trap / 2
+AreaTrapecio
+```
+
 
 
