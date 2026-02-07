@@ -22,3 +22,16 @@ Area
 Lado <- 3
 AreaCuadrado <- Lado ** 2
 ```
+
+## Área triángulo
+```{r}
+base <- 4
+altura <- 3
+AreaTriangulo <- (base * altura) / 2
+AreaTriangulo
+```
+
+
+
+
+
