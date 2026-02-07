@@ -31,7 +31,13 @@ AreaTriangulo <- (base * altura) / 2
 AreaTriangulo
 ```
 
-
+## Área rectángulo
+```{r}
+base_rect <- 5
+altura_rect <- 2
+AreaRectangulo <- base_rect * altura_rect
+AreaRectangulo
+```
 
 
 
